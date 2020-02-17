@@ -1,0 +1,18 @@
+.sidebar {
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 34px;
+    background: white;
+    margin: 0;
+    padding: 37px;
+}
+
+section.hero {
+    background-color: #c0c0c01c;
+}
+
+.hero .columns {
+    flex: 1;
+}
+
+.userlogon {
+    color: hsl(0, 0%, 29%);
+}
